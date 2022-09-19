@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=(%22Hello%2C%20World!%22);张宁同学祝您天天愉快!&center=true&size=27"> </a> </h1>
 
+<div align=center>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zhangnieng&show_icons=true&theme=dark&count_private=true)
+<div>
